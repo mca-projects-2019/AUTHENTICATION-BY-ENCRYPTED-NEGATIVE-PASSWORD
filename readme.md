@@ -1,4 +1,4 @@
-AUTHENTICATION BY ENCRYPTED NEGATIVE PASSWORD.
+#AUTHENTICATION BY ENCRYPTED NEGATIVE PASSWORD.
 
  A password authentication framework that is designed for secure password storage and could be easily integrated into existing authentication systems.
   In this framework, ﬁrst, the received plain password from a client is hashed through a cryptographic hash function (e.g., SHA-256). 
